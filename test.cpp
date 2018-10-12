@@ -8,7 +8,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	cout << CV_VERSION << endl;
-	Mat image = imread("./images/0(1).jpg");
+	Mat image = imread("images/test.jpg");
 
 	if(image.empty())
 	{
