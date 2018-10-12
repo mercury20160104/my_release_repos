@@ -1,4 +1,4 @@
 #!/bin/sh
 
-g++ -o test `pkg-config --cflags --libs opencv` test.cpp
+g++ test.cpp `pkg-config --cflags --libs opencv` -o test
 

@@ -1,2 +1,4 @@
 # This is my test program of the project.
-echo "This is my test program."
+Git is a version control system.
+Git is free software.
+
